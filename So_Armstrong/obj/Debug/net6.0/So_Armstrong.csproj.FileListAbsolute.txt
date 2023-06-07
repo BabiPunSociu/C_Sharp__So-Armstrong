@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\bin\Debug\net6.0\So_Armstrong.exe
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\bin\Debug\net6.0\So_Armstrong.deps.json
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\bin\Debug\net6.0\So_Armstrong.runtimeconfig.json
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\bin\Debug\net6.0\So_Armstrong.dll
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\bin\Debug\net6.0\So_Armstrong.pdb
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\So_Armstrong.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\So_Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\So_Armstrong.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\So_Armstrong.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\So_Armstrong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\So_Armstrong.dll
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\refint\So_Armstrong.dll
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\So_Armstrong.pdb
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\So_Armstrong.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\So_Armstrong\So_Armstrong\obj\Debug\net6.0\ref\So_Armstrong.dll
